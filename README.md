@@ -5,7 +5,7 @@
     <a href="https://www.linkedin.com/in/alexandre-delaitre-a89839220/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"     alt="LinkedIn Badge"/></a>
    </a>
   </div>
-  <a href="#"><img src="![visitors](https://visitor-badge.glitch.me/badge?page_id=alexandredelaitre.alexandredelaitre&left_color=green&right_color=red)" /></a>
+  <a href="#"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falexandredelaitre%2Falexandredelaitre&count_bg=%23017FC6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VISITORS&edge_flat=true"/></a>
   
    <h1>I'm Alex, an aspiring Full Stack Developer!</h1>
    
